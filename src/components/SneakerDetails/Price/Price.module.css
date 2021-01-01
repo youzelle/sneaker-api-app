@@ -1,0 +1,8 @@
+.PriceWrapper {
+    color: #333333;
+    font-size: 1.75rem;
+    margin: .5rem 0;
+}
+.PriceWrapper .PriceSymbol {
+    font-size: 3.125rem;
+}

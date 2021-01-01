@@ -1,0 +1,9 @@
+.SneakerDetailsWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 2rem;
+}
+
+
+
